@@ -11,6 +11,7 @@ Subclasses (Car, Truck, Motorcycle) → Extended with unique attributes (e.g., d
 
 Polymorphism:
 
+
 An array of Vehicle objects holds different subclasses.
 
 Each subclass overrides displayInfo() to show specialized details.
