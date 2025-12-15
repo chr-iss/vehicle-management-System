@@ -2,7 +2,7 @@
 
 A polymorphic system that manages different vehicle types (cars, trucks, motorcycles) using inheritance and an array of objects.
 
-Key Features:
+Key Features: 
 Inheritance Structure:
 
 Vehicle (superclass) → Common properties (make, model, year)
